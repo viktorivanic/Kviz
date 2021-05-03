@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="ustav">Ustav Rh je donesen 1990. god </string>
+    <string name="tocno">Tocno</string>
+    <string name="netocno">Netocno</string>
+    <string name="sabor">Za skupstinu u saboru treba imati 76 glasova</string>
+    <string name="zupanije">Hrvatska ima 21 županiju.</string>
+    <string name="predsjednik">Predsjednik ui RH ima izvrsnu vlast</string>
+
+
+    <string name="next_text">next</string>
+
+    <string name="false_button_text">False</string>
+    <string name="true_button_text">True</string>
+    <string name="prev_button_text">Previous</string>
+    <string name="next_button_text">Next</string>
+    <string name="placeholder">question goes here</string>
+    <string name="image_description">droid icon image</string>
+    <string name="app_name">app</string>
+</resources>
